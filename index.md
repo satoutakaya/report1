@@ -1,13 +1,19 @@
-## Welcome to GitHub Pages
+## ようこそ
 
-You can use the [editor on GitHub](https://github.com/satoutakaya/report1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+こんにちは、情報学部の佐藤貴也です。
+このページでは、私の好きなものについて語らせていただきます。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+＜好きな生き物＞亀<br>
+＜好きな食べ物＞<br>
+＜好きなゲーム＞<br>
 
-### Markdown
+### 好きな生き物
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+私は、
+![カメ](/API実習/レポート1/カメ.jpg）
+<image src="API実習/レポート1/カメ.jpg">
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions foこのページでは
 ```markdown
 Syntax highlighted code block
 
